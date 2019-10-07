@@ -32,3 +32,20 @@ comment: Have looked at his code and run his tools and generally been impressed;
 ZfUZZggqn3zHRitGd2wo7OKfIkrcYzf9v8IfsNvF3SK5AWhnyIAm9Utp-5gAS6jGAK_A72bf9yaNdVCN6tHrBA
 -----END CREV TRUST-----
 
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-10-07T12:22:57.512393-06:00"
+from:
+  id-type: crev
+  id: WXnRqWDd_51hHKvpvu0vHGDKZnHChA0KubUNF1tPq1U
+  url: "https://github.com/BatmanAoD/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: wrote crev; on Release team w/ me
+-----BEGIN CREV TRUST SIGNATURE-----
+-iJX-ydZKE9OjKzNKREpU8wUr4Bhs0r-6i3GnawcmJ8misnFUL9EJ9bsPsKrs746uIbNmrdFoK6uSUuzJWUbDQ
+-----END CREV TRUST-----
+
