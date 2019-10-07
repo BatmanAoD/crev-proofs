@@ -15,3 +15,20 @@ comment: Rust core team lead
 fTjsl8MJiyVUoCU_0Ks1J9lc0EEiwxvek_9Fs8sq8LUw8IdMsNg0WI07rGsJChPhvLJms3VLqbep26jH1kVaCw
 -----END CREV TRUST-----
 
+-----BEGIN CREV TRUST -----
+version: -1
+date: "2019-10-07T12:10:58.696623-06:00"
+from:
+  id-type: crev
+  id: WXnRqWDd_51hHKvpvu0vHGDKZnHChA0KubUNF1tPq1U
+  url: "https://github.com/BatmanAoD/crev-proofs"
+ids:
+  - id-type: crev
+    id: VylyTuk8CMGqIxgHixWaqfiUn3xZyzOA1wFrQ0sR1As
+    url: "https://github.com/BurntSushi/crev-proofs"
+trust: high
+comment: Have looked at his code and run his tools and generally been impressed; interactions online have been positive
+-----BEGIN CREV TRUST SIGNATURE-----
+ZfUZZggqn3zHRitGd2wo7OKfIkrcYzf9v8IfsNvF3SK5AWhnyIAm9Utp-5gAS6jGAK_A72bf9yaNdVCN6tHrBA
+-----END CREV TRUST-----
+
